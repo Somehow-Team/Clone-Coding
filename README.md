@@ -1,3 +1,4 @@
 # Clone-Coding
-  ## Chat GPT
+List of clone coding projects
+  1. Chat GPT
   
