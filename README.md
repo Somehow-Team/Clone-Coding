@@ -1,1 +1,3 @@
-# ChatGPT-Clone-Coding
+# Clone-Coding
+  ## Chat GPT
+  
